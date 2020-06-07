@@ -1,0 +1,8 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "img-fast": "^0.1.5"
+  }
+}
